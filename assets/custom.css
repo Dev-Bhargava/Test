@@ -149,6 +149,10 @@ button:focus:not(:focus-visible) {
   align-items: center;
 }
 
+.home-slider .card-img img{
+  width: 100%;
+}
+
 .home-slider .slick-track{
   display: flex;
   align-items: center;

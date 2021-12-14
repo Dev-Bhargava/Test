@@ -414,7 +414,7 @@ button:focus:not(:focus-visible) {
   color: #000000;
 }
 
-.home_ambassador .col-md-6 p strong{
+.home_ambassador .col-md-6 p strong {
   font-weight: 700;
 }
 
@@ -423,22 +423,24 @@ button:focus:not(:focus-visible) {
   height: 50px;
 }
 
-.ambassador_images .image_cards{
+.ambassador_images .image_cards {
   flex: 1 0 19%;
   width: 20%;
   padding: 0;
 }
 
-.ambassador_images .image_cards img{
+.ambassador_images .image_cards img {
   width: 100%;
-  filter:grayscale(1);
+  filter: grayscale(1);
   opacity: 0.45;
 }
 
-.ambassador_images .image_cards img:hover{
-  filter:grayscale(0);
+.ambassador_images .image_cards img:hover {
+  filter: grayscale(0);
   opacity: 1;
-  transition: all 2s ease-in-out;
+  transition: all .7s ease-in-out;
+  transform: scale(1.1);
+  z-index: 99999999;
 }
 
 footer {

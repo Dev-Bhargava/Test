@@ -417,6 +417,11 @@ button:focus:not(:focus-visible) {
   font-weight: 700;
 }
 
+.home_ambassador .col-md-6 .btn {
+  width: 195px;
+  height: 50px;
+}
+
 footer {
   background-color: #000000;
   margin-top: 80px;

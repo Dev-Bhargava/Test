@@ -384,6 +384,11 @@ button:focus:not(:focus-visible) {
   display: flex;
 }
 
+.home_ambassador{
+  background-color: #F2F2F2;
+  margin-top: 131px;
+}
+
 footer{
   background-color: #000000;
   margin-top: 80px;

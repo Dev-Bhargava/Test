@@ -261,7 +261,7 @@ button:focus:not(:focus-visible) {
 }
 
 .home-product-slider.home-product{
-  margin-top: 20px;
+  margin-top: 80px;
 }
 
 .home-product-slider.home-product > .d-flex{

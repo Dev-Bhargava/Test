@@ -423,6 +423,10 @@ button:focus:not(:focus-visible) {
   height: 50px;
 }
 
+.ambassador_images .image_cards{
+  flex: 1 0 19%;
+}
+
 footer {
   background-color: #000000;
   margin-top: 80px;

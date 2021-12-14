@@ -295,7 +295,7 @@ button:focus:not(:focus-visible) {
   line-height: 38px;
 }
 
-.home_advertise_banner .btn {
+.home_advertise_banner .btn, .home_ambassador .col-md-6 .btn {
   width: 195px;
   height: 50px;
   font-size: 20px;

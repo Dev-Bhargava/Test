@@ -109,7 +109,7 @@ button:focus:not(:focus-visible) {
   align-items: center;
 }
 
-.banner .col-md-6 .btn span, .home_advertise_banner .btn span {
+.banner .col-md-6 .btn span, .home_advertise_banner .btn span, .home_ambassador .col-md-6 .btn span {
   background: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/Vector_5.png?v=1639399351);
   background-size: contain;
   width: 24px;
@@ -410,6 +410,7 @@ button:focus:not(:focus-visible) {
   font-weight: 400;
   line-height: 35px;
   text-transform: none;
+  color: #000000;
 }
 
 .home_ambassador .col-md-6 p storng{

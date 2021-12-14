@@ -149,10 +149,6 @@ button:focus:not(:focus-visible) {
   align-items: center;
 }
 
-.home-slider .card-image img{
-  width: 100%;
-}
-
 .home-slider .slick-track{
   display: flex;
   align-items: center;
@@ -275,6 +271,9 @@ button:focus:not(:focus-visible) {
 .home-product-slider.home-product > .d-flex .card{
   flex: 1 0 20%;
   margin-bottom: 40px;
+}
+.home-product-slider.home-product .card-image img{
+  width: 100%;
 }
 
 .home_advertise_banner{

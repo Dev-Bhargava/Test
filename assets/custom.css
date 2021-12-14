@@ -265,7 +265,7 @@ button:focus:not(:focus-visible) {
 }
 
 .home-product-slider.home-product > .d-flex .card{
-  flex: 1 0 21%;
+  flex: 1 0 20%;
 }
 
 .home_advertise_banner{

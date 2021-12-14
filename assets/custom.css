@@ -426,10 +426,11 @@ button:focus:not(:focus-visible) {
 .ambassador_images .image_cards{
   flex: 1 0 19%;
   width: 20%;
+  padding: 0;
 }
 
 .ambassador_images .image_cards img{
-  width: 20%;
+  width: 100%;
 }
 
 footer {

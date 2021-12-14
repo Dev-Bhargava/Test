@@ -157,7 +157,7 @@ button:focus:not(:focus-visible) {
 .home_goals .parent {
   display: grid;
   grid-template-columns: repeat(3,.75fr);
-  grid-template-rows: 0.5fr .4fr .5fr 1fr .65fr 0.75fr repeat(1,1fr);
+  grid-template-rows: 0.2fr .4fr .5fr 1fr .65fr 0.75fr repeat(1,1fr);
   grid-column-gap: 30px;
   grid-row-gap: 30px;
 }
@@ -264,7 +264,7 @@ button:focus:not(:focus-visible) {
   background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/home_adver_banner.png?v=1639129170);
   background-size: cover;
   height: 310px;
-  margin: 80px auto;
+  margin: 80px auto 0px;
 }
 .home_advertise_banner .col-md-5 h2{
   font-family: Oswald;

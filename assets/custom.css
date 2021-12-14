@@ -270,6 +270,7 @@ button:focus:not(:focus-visible) {
 
 .home-product-slider.home-product > .d-flex .card{
   flex: 1 0 20%;
+  margin-bottom: 40px;
 }
 
 .home_advertise_banner{

@@ -438,6 +438,7 @@ button:focus:not(:focus-visible) {
 .ambassador_images .image_cards img:hover{
   filter:grayscale(0);
   opacity: 1;
+  transition: .4s delay ease-in-out;
 }
 
 footer {

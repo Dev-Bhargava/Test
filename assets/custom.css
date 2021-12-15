@@ -654,7 +654,7 @@ footer>.container>.row>.col-md-3:first-of-type {
     align-items: flex-end !important;
   }
 
-  .home_goals {
+  /* .home_goals {
     display: none;
-  }
+  } */
 }

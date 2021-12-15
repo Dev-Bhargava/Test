@@ -404,7 +404,7 @@ button:focus:not(:focus-visible) {
 }
 
 .home_ambassador > .row .col-md-5 .img-fluid{
-  max-width: 111px;
+  max-width: 111%;
 }
 
 .home_ambassador .col-md-6 h2 {

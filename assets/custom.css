@@ -776,7 +776,7 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-right: 0px;
   }
 
-  footer nav.nav .justify-content-end{
+  footer nav.nav.justify-content-end{
     justify-content: flex-start !important;
   }
 }

@@ -569,7 +569,6 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home-slider .slick-slide img {
     height: 23px;
-    max-height: 162px;
   }
 
   .product-details {
@@ -589,6 +588,10 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home-product-slider.home-product>.d-flex .card {
     flex: 1 0 35%;
+  }
+
+  .home-product-slider.home-product>.d-flex .card img{
+    max-height: 162px;
   }
 
   .product-details .product-sub-title {

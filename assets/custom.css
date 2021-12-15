@@ -766,6 +766,7 @@ footer>.container>.row>.col-md-3:first-of-type {
   footer .col-md-5 .nav-link {
     width: 41px;
     height: 38px;
+    margin: 0 6px;
   }
 
   footer .col-md-5 .nav-link:first-of-type {

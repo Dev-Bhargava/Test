@@ -637,7 +637,7 @@ footer>.container>.row>.col-md-3:first-of-type {
     padding-right: 12px;
   }
 
-  .home_advertise_banner .col-md-5 h2, .home_advertise_banner .col-md-5 strong {
+  .home_advertise_banner .col-md-5 h2, .home_advertise_banner .col-md-5 h2 strong {
     font-size: 25px;
   }
 

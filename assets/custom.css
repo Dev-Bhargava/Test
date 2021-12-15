@@ -654,13 +654,20 @@ footer>.container>.row>.col-md-3:first-of-type {
     align-items: flex-end !important;
   }
 
-  .home_goals h2 span span{
-    display: none;
-  }
-
   .home_goals h2{
+    font-size: 32px;
+    text-align: center;
     margin-top: 40px;
     margin-top: 25px;
+  }
+
+  .home_goals h2 span{
+    font-size: 32px;
+    justify-content: center;
+  }
+
+  .home_goals h2 span span{
+    display: none;
   }
 
   .home_goals .collection{

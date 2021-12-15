@@ -654,7 +654,7 @@ footer>.container>.row>.col-md-3:first-of-type {
   }
 
   .home_advertise_banner .btn {
-    margin: 30px auto 40px;
+    margin: 30px auto 40px !important;
   }
 
   .home_advertise_banner.align-items-center {

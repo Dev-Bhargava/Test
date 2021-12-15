@@ -723,3 +723,11 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-left: -38px;
   }
 }
+
+@media (min-width: 300px) and (max-width: 360px) {
+  .home_ambassador>.row .col-md-5 .img-fluid {
+    max-width: 141%;
+    width: 141%;
+    margin-left: -38px;
+  }
+}

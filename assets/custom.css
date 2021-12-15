@@ -533,7 +533,7 @@ footer>.container>.row>.col-md-3:first-of-type {
   }
 
   .container {
-    max-width: calc(100% - 54px);
+    max-width: calc(100% - 36px);
   }
 
   .navbar .w-100 {

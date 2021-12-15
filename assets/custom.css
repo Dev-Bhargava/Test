@@ -658,6 +658,11 @@ footer>.container>.row>.col-md-3:first-of-type {
     display: none;
   }
 
+  .home_goals h2{
+    margin-top: 40px;
+    margin-top: 25px;
+  }
+
   .home_goals .collection{
     width: 100%;
     max-height: 414px;

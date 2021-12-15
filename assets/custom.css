@@ -606,10 +606,12 @@ footer>.container>.row>.col-md-3:first-of-type {
   }
 
   .home-product-slider .card {
-    margin: 0 10px;
     width: 155px;
     height: 240px;
   }
+
+  .home-product-slider .card:nth-of-type(odd) {margin-right: 10px;}
+  .home-product-slider .card:nth-of-type(even) {margin-left: 10px;}
 
   .product-details .product-price {
     font-size: 20px;

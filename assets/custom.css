@@ -683,6 +683,7 @@ footer>.container>.row>.col-md-3:first-of-type {
   .home_goals .parent {
     display: flex;
     flex-direction: column;
+    grid-row-gap: 0;
   }
 
   .home_goals img{

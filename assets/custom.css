@@ -749,6 +749,17 @@ footer>.container>.row>.col-md-3:first-of-type {
     justify-content: flex-start;
     border-right: 0px;
     height: 80px;
+  }
+
+  footer>.container>.row {
+    margin: 90px auto 115px auto;
+  }
+
+  footer .nav-link {
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 0px;
+  }
 }
 
 @media (min-width: 400px) and (max-width: 578px) {

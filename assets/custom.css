@@ -553,6 +553,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     justify-content: space-between !important;
   }
 
+  .navbar-brand {
+    margin-left: -50px;
+}
+
   .banner {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mobile_banner.png?v=1639547794);
     margin-top: 0;

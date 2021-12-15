@@ -595,7 +595,7 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-bottom: 20px;
   }
 
-  .home-product-slider.home-product>.d-flex .card img{
+  .home-product-slider.home-product>.d-flex .card img {
     max-height: 154px;
     margin-top: 10px;
   }
@@ -615,8 +615,15 @@ footer>.container>.row>.col-md-3:first-of-type {
     height: 240px;
   }
 
-  .home-product-slider .card:nth-of-type(odd) {margin-right: 10px; margin-left: 0;}
-  .home-product-slider .card:nth-of-type(even) {margin-left: 10px; margin-right: 0;}
+  .home-product-slider .card:nth-of-type(odd) {
+    margin-right: 10px;
+    margin-left: 0;
+  }
+
+  .home-product-slider .card:nth-of-type(even) {
+    margin-left: 10px;
+    margin-right: 0;
+  }
 
   .product-details .product-price {
     font-size: 20px;
@@ -625,11 +632,11 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-bottom: 0px;
   }
 
-  .home-product-slider .btn{
+  .home-product-slider .btn {
     margin-top: 15px;
   }
 
-  .home_advertise_banner{
+  .home_advertise_banner {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mockups_1.png?v=1639555287);
     margin-top: 74px;
     height: 568px;
@@ -646,38 +653,38 @@ footer>.container>.row>.col-md-3:first-of-type {
     display: none;
   }
 
-  .home_advertise_banner .btn{
+  .home_advertise_banner .btn {
     margin: 30px ​auto 40px;
   }
 
-  .home_advertise_banner.align-items-center{
+  .home_advertise_banner.align-items-center {
     align-items: flex-end !important;
   }
 
-  .home_goals h2{
+  .home_goals h2 {
     font-size: 18px;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 25px;
   }
 
-  .home_goals h2 span{
+  .home_goals h2 span {
     font-size: 32px;
     justify-content: center;
   }
 
-  .home_goals h2 span span{
+  .home_goals h2 span span {
     display: none;
   }
 
-  .home_goals .collection{
+  .home_goals .collection {
     width: 100%;
     max-height: 414px;
-    margin-bottom: 20px !important;
+    margin-bottom: 25px !important;
   }
 
-  .home_goals .box_1{
-    margin-bottom: 45px !important;
+  .home_goals .box_1 {
+    margin-bottom: 50px !important;
   }
 
   .home_goals .parent {
@@ -686,13 +693,17 @@ footer>.container>.row>.col-md-3:first-of-type {
     grid-row-gap: 0;
   }
 
-  .home_goals img{
+  .home_goals img {
     width: 100%;
     height: 385px;
   }
 
-  .home_goals a{
+  .home_goals a {
     width: calc(100% - 51px);
+  }
+
+  .home_ambassador {
+    margin-top: 50px;
   }
 
   /* .home_goals {

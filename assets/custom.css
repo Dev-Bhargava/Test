@@ -527,6 +527,18 @@ footer>.container>.row>.col-md-3:first-of-type {
   }
 }
 
+@media (min-width: 300px) and (max-width: 360px) {
+  .home_ambassador>.row .col-md-5 .img-fluid {
+    max-width: 141%;
+    width: 141%;
+    margin-left: -13px;
+  }
+
+  footer .col-md-5 .nav-link {
+    margin: 0 6px;
+  }
+}
+
 @media (max-width: 576px) {
   body {
     padding-top: 27px;
@@ -787,17 +799,5 @@ footer>.container>.row>.col-md-3:first-of-type {
     max-width: 127%;
     width: 127%;
     margin-left: -13px;
-  }
-}
-
-@media (min-width: 300px) and (max-width: 360px) {
-  .home_ambassador>.row .col-md-5 .img-fluid {
-    max-width: 141%;
-    width: 141%;
-    margin-left: -13px;
-  }
-
-  footer .col-md-5 .nav-link {
-    margin: 0 6px;
   }
 }

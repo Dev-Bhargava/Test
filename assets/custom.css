@@ -542,6 +542,8 @@ footer>.container>.row>.col-md-3:first-of-type {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mobile_banner.png?v=1639547794);
     margin-top: 0;
     height: 500px;
+    border-color: #474747;
+    padding-botto: 20px;
   }
 
   .home-slider h2 {

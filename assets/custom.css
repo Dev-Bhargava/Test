@@ -665,6 +665,7 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home_goals img{
     width: 100%;
+    max-height: 385px;
   }
 
   .home_goals a{

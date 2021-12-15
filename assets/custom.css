@@ -610,8 +610,8 @@ footer>.container>.row>.col-md-3:first-of-type {
     height: 240px;
   }
 
-  .home-product-slider .card:nth-of-type(odd) {margin-right: 10px;}
-  .home-product-slider .card:nth-of-type(even) {margin-left: 10px;}
+  .home-product-slider .card:nth-of-type(odd) {margin-right: 10px; margin-left: 0;}
+  .home-product-slider .card:nth-of-type(even) {margin-left: 10px; margin-right: 0;}
 
   .product-details .product-price {
     font-size: 20px;

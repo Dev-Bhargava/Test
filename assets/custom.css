@@ -586,6 +586,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     transition: all ease-in-out .5s;
 }
 
+.home-product-slider.home-product>.d-flex .card {
+    flex: 1 0 35%;
+  }
+
   .home_goals {
     display: none;
   }

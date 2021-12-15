@@ -592,7 +592,7 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home-product-slider.home-product>.d-flex .card img{
     max-height: 154px;
-    margin-top: 20px;
+    margin-top: 10px;
   }
 
   .product-details .product-sub-title {
@@ -608,6 +608,7 @@ footer>.container>.row>.col-md-3:first-of-type {
   .home-product-slider .card {
     width: 155px;
     height: 240px;
+    margin-bottom: 20px;
   }
 
   .home-product-slider .card:nth-of-type(odd) {margin-right: 10px; margin-left: 0;}

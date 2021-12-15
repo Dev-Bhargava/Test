@@ -673,6 +673,7 @@ footer>.container>.row>.col-md-3:first-of-type {
   .home_goals .collection{
     width: 100%;
     max-height: 414px;
+    margin-bottom: 20px !important;
   }
 
   .home_goals .parent {

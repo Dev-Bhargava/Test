@@ -562,6 +562,15 @@ footer>.container>.row>.col-md-3:first-of-type {
     width: 75%;
   }
 
+  .navbar-light .navbar-toggler {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.navbar .w-100 {
+    width: 82%!important;
+}
+
   .banner {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mobile_banner.png?v=1639547794);
     margin-top: 0;

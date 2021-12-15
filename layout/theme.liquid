@@ -160,7 +160,15 @@
         slidesToShow: 5, // Shows a Five slides at a time
         slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
         arrows: true, // Adds arrows to sides of slider
-        dots: false // Remove the dots on the bottom
+        dots: false, // Remove the dots on the bottom
+        responsive: [
+                      {
+                        breakpoint: 576,
+                        settings: {
+                          slidesToShow: 2,
+                          slidesToScroll: 1
+                        }
+                      ]
       });
 
       $('.slick-prev').html('<i class="fas fa-angle-left"></i>');

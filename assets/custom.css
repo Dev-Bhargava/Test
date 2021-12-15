@@ -629,6 +629,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-top: 15px;
   }
 
+  .home_advertise_banner{
+    margin-top: 74px;
+  }
+
   .home_goals {
     display: none;
   }

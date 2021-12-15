@@ -564,11 +564,11 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .navbar-light .navbar-toggler {
     margin-left: 25px;
-    margin-right: 25px;
+    margin-right: 15px;
 }
 
 .navbar .w-100 {
-    width: 82%!important;
+    width: 75%!important;
 }
 
   .banner {

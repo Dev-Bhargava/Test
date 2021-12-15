@@ -400,7 +400,11 @@ button:focus:not(:focus-visible) {
 }
 
 .home_ambassador .row:last-of-type{
-    margin-top: -10px;
+    margin-top: -30px;
+}
+
+.home_ambassador > .row .col-md-5 .img-fluid{
+  max-width: 111px;
 }
 
 .home_ambassador .col-md-6 h2 {

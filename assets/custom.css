@@ -534,6 +534,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     max-width: calc(100% - 54px);
   }
 
+  .navbar .w-100{
+    width: auto !important;
+  }
+
   .banner {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mobile_banner.png?v=1639547794);
     background-size: 100%;

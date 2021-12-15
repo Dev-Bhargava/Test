@@ -775,6 +775,10 @@ footer>.container>.row>.col-md-3:first-of-type {
   footer .col-md-5 .nav-link:last-of-type {
     margin-right: 0px;
   }
+
+  footer nav.nav .justify-content-end{
+    justify-content: flex-start !important;
+  }
 }
 
 @media (min-width: 400px) and (max-width: 578px) {

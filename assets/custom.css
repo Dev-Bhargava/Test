@@ -744,6 +744,11 @@ footer>.container>.row>.col-md-3:first-of-type {
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  footer>.container>.row>.col-md-3:first-of-type {
+    justify-content: flex-start;
+    border-right: 0px;
+    height: 80px;
 }
 
 @media (min-width: 400px) and (max-width: 578px) {

@@ -676,6 +676,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-bottom: 20px !important;
   }
 
+  .home_goals .collection:first-of-type{
+    margin-bottom: 50px !important;
+  }
+
   .home_goals .parent {
     display: flex;
     flex-direction: column;

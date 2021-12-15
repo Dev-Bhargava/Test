@@ -762,6 +762,19 @@ footer>.container>.row>.col-md-3:first-of-type {
   ul.nav{
     margin-bottom: 35px;
   }
+
+  footer .col-md-5 .nav-link {
+    width: 41px;
+    height: 38px;
+  }
+
+  footer .col-md-5 .nav-link:first-of-type {
+    margin-left: 0px;
+  }
+
+  footer .col-md-5 .nav-link:last-of-type {
+    margin-right: 0px;
+  }
 }
 
 @media (min-width: 400px) and (max-width: 578px) {

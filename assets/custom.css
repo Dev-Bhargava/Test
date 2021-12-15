@@ -540,12 +540,7 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .banner {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mobile_banner.png?v=1639547794);
-    background-size: 100%;
     height: 500px;
-    width: 100%;
-    margin: 0 auto;
-    margin-top: -25px;
-    background-repeat: no-repeat;
   }
 
   .home-slider h2 {

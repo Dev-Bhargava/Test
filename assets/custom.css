@@ -569,9 +569,9 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home-slider .slick-slide img {
     height: 23px;
-}
+  }
 
-.product-details {
+  .product-details {
     background: none;
     box-shadow: none;
     opacity: 1;
@@ -584,14 +584,25 @@ footer>.container>.row>.col-md-3:first-of-type {
     display: block;
     visibility: visible;
     transition: none;
-}
+  }
 
-.home-product-slider.home-product>.d-flex .card {
+  .home-product-slider.home-product>.d-flex .card {
     flex: 1 0 35%;
   }
 
-  .product-details .product-sub-title{
+  .product-details .product-sub-title {
     display: none;
+  }
+
+  .product-details .product-title {
+    font-size: 14px;
+    font-weight: 200;
+  }
+
+  .product-details .product-price {
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 600;
   }
 
   .home_goals {

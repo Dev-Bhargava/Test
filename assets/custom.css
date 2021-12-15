@@ -391,7 +391,7 @@ button:focus:not(:focus-visible) {
 .home_ambassador {
   background-color: #F2F2F2;
   margin-top: 131px;
-  padding: 10px 40px;
+  padding: 10px 40px 30px;
 }
 
 .home_ambassador .col-md-6 h2 {

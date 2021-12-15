@@ -783,8 +783,8 @@ footer>.container>.row>.col-md-3:first-of-type {
 
 @media (min-width: 400px) and (max-width: 578px) {
   .home_ambassador>.row .col-md-5 .img-fluid {
-    max-width: 127%;
-    width: 127%;
+    max-width: 108%;
+    width: 108%;
     margin-left: -13px;
   }
 }

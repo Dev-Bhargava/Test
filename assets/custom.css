@@ -32,7 +32,7 @@ body {
 button:focus:not(:focus-visible) {
   box-shadow: none;
 }
-.navbar-brand {
+.navbar {
   background-color: #F5F5F5;
 }
 .navbar-brand {

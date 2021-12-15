@@ -394,6 +394,15 @@ button:focus:not(:focus-visible) {
   padding: 10px 40px 40px;
 }
 
+.home_ambassador .row:first-of-type{
+    z-index: 9;
+    position: relative;
+}
+
+.home_ambassador .row:last-of-type{
+    margin-top: -10px;
+}
+
 .home_ambassador .col-md-6 h2 {
   font-family: Oswald;
   font-size: 40px;

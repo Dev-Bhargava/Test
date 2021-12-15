@@ -569,6 +569,7 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home-slider .slick-slide img {
     height: 23px;
+    max-height: 162px;
   }
 
   .product-details {

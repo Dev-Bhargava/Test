@@ -639,6 +639,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     font-size: 26px;
   }
 
+  .home_advertise_banner .col-md-5 h2 br {
+    display: none;
+  }
+
   .home_goals {
     display: none;
   }

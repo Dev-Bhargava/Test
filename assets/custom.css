@@ -756,9 +756,11 @@ footer>.container>.row>.col-md-3:first-of-type {
   }
 
   footer .nav-link {
-    font-weight: 600;
-    font-size: 16px;
     padding: 10px 0px;
+  }
+
+  ul.nav{
+    margin-bottom: 35px;
   }
 }
 

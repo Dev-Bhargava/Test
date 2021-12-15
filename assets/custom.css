@@ -659,6 +659,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     flex-direction: column;
   }
 
+  .home_goals a{
+    width: 86%;
+  }
+
   /* .home_goals {
     display: none;
   } */

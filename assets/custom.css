@@ -581,7 +581,7 @@ footer>.container>.row>.col-md-3:first-of-type {
     height: 100%;
     font-weight: 600;
     line-height: 28px;
-    display: block;
+    display: flex;
     visibility: visible;
     transition: none;
   }
@@ -592,6 +592,7 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home-product-slider.home-product>.d-flex .card img{
     max-height: 154px;
+    margin-top: 20px;
   }
 
   .product-details .product-sub-title {

@@ -734,6 +734,14 @@ footer>.container>.row>.col-md-3:first-of-type {
   .home_ambassador .col-md-6 .btn {
     margin: 0 auto;
   }
+
+  .ambassador_images .image_cards {
+    flex: 1 0 50%;
+  }
+
+  .home_ambassador .row:last-of-type {
+    margin-top: 40px;
+  }
 }
 
 @media (min-width: 400px) and (max-width: 578px) {

@@ -633,12 +633,12 @@ footer>.container>.row>.col-md-3:first-of-type {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mockups_1.png?v=1639555287);
     margin-top: 74px;
     height: 568px;
-    padding-left: 18px;
-    padding-right: 18px;
+    padding-left: 12px;
+    padding-right: 12px;
   }
 
   .home_advertise_banner .col-md-5 h2, .home_advertise_banner .col-md-5 strong {
-    font-size: 23px;
+    font-size: 25px;
   }
 
   .home_advertise_banner .col-md-5 h2 br {

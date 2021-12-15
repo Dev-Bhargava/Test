@@ -549,13 +549,18 @@ footer>.container>.row>.col-md-3:first-of-type {
     flex-direction: row-reverse;
   }
 
-  .navbar .col-md-2.pt-md-2 .row.justify-content-md-between{
+  .navbar .col-md-2.pt-md-2 .row.justify-content-md-between {
     justify-content: space-between !important;
   }
 
   .navbar-brand {
-    margin-left: -50px;
-}
+    margin-left: 0px;
+  }
+
+  .header__heading-logo {
+    height: auto;
+    width: 75%;
+  }
 
   .banner {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mobile_banner.png?v=1639547794);
@@ -767,7 +772,7 @@ footer>.container>.row>.col-md-3:first-of-type {
     padding: 10px 0px;
   }
 
-  ul.nav{
+  ul.nav {
     margin-bottom: 35px;
   }
 
@@ -784,7 +789,7 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-right: 0px;
   }
 
-  footer nav.nav.justify-content-end{
+  footer nav.nav.justify-content-end {
     justify-content: flex-start !important;
   }
 }

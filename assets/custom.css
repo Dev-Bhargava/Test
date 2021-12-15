@@ -538,6 +538,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     width: auto !important;
   }
 
+  .navbar .col-md-2 .dropdown .btn {
+    display: none;
+  }
+
   .banner {
     background-image: url(https://cdn.shopify.com/s/files/1/0317/2499/4696/files/mobile_banner.png?v=1639547794);
     margin-top: 0;

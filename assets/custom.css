@@ -711,6 +711,11 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-left: -38px;
   }
 
+  .home_ambassador .col-md-6 h2 {
+    font-size: 26px;
+    line-height: 38px;
+}
+
   /* .home_goals {
     display: none;
   } */

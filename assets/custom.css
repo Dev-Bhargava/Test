@@ -597,6 +597,13 @@ footer>.container>.row>.col-md-3:first-of-type {
   .product-details .product-title {
     font-size: 14px;
     font-weight: 200;
+    margin-bottom: 0px;
+  }
+
+  .home-product-slider .card {
+    margin: 0 10px;
+    width: 155px;
+    height: 240px;
   }
 
   .product-details .product-price {

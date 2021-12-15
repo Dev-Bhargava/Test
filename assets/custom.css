@@ -709,9 +709,17 @@ footer>.container>.row>.col-md-3:first-of-type {
   .home_ambassador>.row .col-md-5 .img-fluid {
     max-width: 131%;
     margin-left: -38px;
-}
+  }
 
   /* .home_goals {
     display: none;
   } */
+}
+
+@media (min-width: 400px) and (max-width: 578px) {
+  .home_ambassador>.row .col-md-5 .img-fluid {
+    max-width: 127%;
+    width: 127%;
+    margin-left: -38px;
+  }
 }

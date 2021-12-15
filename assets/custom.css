@@ -704,6 +704,7 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home_ambassador {
     margin-top: 50px;
+    padding: 10px 15px 40px;
   }
 
   .home_ambassador>.row .col-md-5 .img-fluid {

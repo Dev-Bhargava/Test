@@ -524,3 +524,17 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-top: -3%;
   }
 }
+
+@media (max-width: 576px) {
+  .banner {
+    height: 86vh;
+  }
+
+  .home-slider h2 {
+    margin-top: -3%;
+  }
+
+  .home_goals{
+    display: none;
+  }
+}

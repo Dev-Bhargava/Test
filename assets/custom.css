@@ -647,6 +647,10 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin: 0 auto;
   }
 
+  .home_advertise_banner .align-items-center{
+    align-items: flex-end !important;
+  }
+
   .home_goals {
     display: none;
   }

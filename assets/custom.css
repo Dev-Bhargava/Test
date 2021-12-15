@@ -706,6 +706,11 @@ footer>.container>.row>.col-md-3:first-of-type {
     margin-top: 50px;
   }
 
+  .home_ambassador>.row .col-md-5 .img-fluid {
+    max-width: 131%;
+    margin-left: -38px;
+}
+
   /* .home_goals {
     display: none;
   } */

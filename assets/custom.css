@@ -588,6 +588,7 @@ footer>.container>.row>.col-md-3:first-of-type {
 
   .home-product-slider.home-product>.d-flex .card {
     flex: 1 0 35%;
+    margin-bottom: 20px;
   }
 
   .home-product-slider.home-product>.d-flex .card img{
@@ -608,7 +609,6 @@ footer>.container>.row>.col-md-3:first-of-type {
   .home-product-slider .card {
     width: 155px;
     height: 240px;
-    margin-bottom: 20px;
   }
 
   .home-product-slider .card:nth-of-type(odd) {margin-right: 10px; margin-left: 0;}

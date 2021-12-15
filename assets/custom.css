@@ -610,6 +610,7 @@ footer>.container>.row>.col-md-3:first-of-type {
     font-size: 20px;
     line-height: 27px;
     font-weight: 600;
+    margin-bottom: 0px;
   }
 
   .home_goals {
